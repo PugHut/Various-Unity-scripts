@@ -4,7 +4,7 @@ uhh cool yaaa
 # Music Manager
 Description:
 
-Toggles on and off audio sources from a bool.
+Toggles on and off audio sources from a bool. (All it does is mute the audio so it can keep the time.)
 
 Setup:
 Get the (Blank) isolated track (and the others) and put them all in the scene
