@@ -55,11 +55,11 @@ public class musicManager : MonoBehaviour
         {
             Other.volume = 1;
         }
-        else if (drumsCheck == false)
+        else if (otherCheck == false)
         {
             Other.volume = 0;
         }
-        
+
         //Vocal Checks
         if (vocal1Check == true)
         {
